@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Simple Dice Game
-=======
-# Dice Game
->>>>>>> 63f86e0b39d8ae36f5eb5f589edf82b7f729c13a
 
 A new Flutter project.
 
