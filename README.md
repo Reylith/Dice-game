@@ -1,4 +1,4 @@
-# day_2
+# Simple Dice Game
 
 A new Flutter project.
 
